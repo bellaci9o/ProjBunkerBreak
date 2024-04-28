@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/hannaradcenko/Documents/Unreal Projects/Game/Content/Menulevel.umap",
+				"/Users/hannaradcenko/Documents/Unreal Projects/Game/Content/UI/MainMenu.uasset",
+				"/Users/hannaradcenko/Documents/Unreal Projects/Game/Content/UI/MenuGame.uasset",
+				"/Users/hannaradcenko/Documents/Unreal Projects/Game/Content/Mainlevel.umap",
+				"/Users/hannaradcenko/Documents/Unreal Projects/Game/Content/UI/image_png.uasset"
+			]
+		}
+	]
+}
